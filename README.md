@@ -1,7 +1,3 @@
-Here’s a professional and engaging `README.md` for your GitHub repository, incorporating emojis and giving due credit. Let me know if you’d like further adjustments!
-
----
-
 # 🧑‍💻 Face Recognition System
 
 Welcome to the **Face Recognition System** repository! This project leverages deep learning techniques for face verification and recognition using the power of convolutional neural networks and pre-trained models.
