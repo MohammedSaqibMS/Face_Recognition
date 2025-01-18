@@ -31,11 +31,11 @@ pip install -r requirements.txt
 ## Getting Started 🚀
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/face-recognition-deep-learning.git
+   git clone https://github.com/MohammedSaqibMS/Face_Recognition.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd face-recognition-deep-learning
+   cd Face_Recognition
    ```
 3. Launch Jupyter Notebook:
    ```bash
